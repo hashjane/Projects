@@ -1,0 +1,7 @@
+My journey towards learning Angularjs2
+https://www.youtube.com/watch?v=-zW1zHqsdyc
+
+- Downloaded and installed Microsoft Visual Studio Code
+- Downloaded and installed Nodejs 
+- Downloaded and installed git-scm
+- Clone the angularjs quickstart
